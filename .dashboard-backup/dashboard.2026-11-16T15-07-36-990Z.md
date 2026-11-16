@@ -8,6 +8,7 @@ banner:
   quoteFont: "Didot,\"Bodoni MT\",Georgia,serif"
   images:
     - "https://images.unsplash.com/photo-1788651946293-893d6b217f34?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0"
+immersiveEditable: false
 immersiveBackground: "https://images.unsplash.com/photo-1788651946293-893d6b217f34?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0"
 immersive:
   - id: "widget:quickActions"
@@ -75,7 +76,7 @@ immersive:
     cap: 21
     fixed: true
     x: 6
-    y: 0
+    y: 8
   - id: "card:demo-todo-2"
     w: 3
     cap: 32
@@ -129,10 +130,10 @@ width: 246
 ### 界面操作指南
 id: demo-todo-2
 type: task
-- [ ] 右键任意瓷贴：移除、整理布局
-- [ ] 点击时钟旁的编辑按钮更换海报背景
 - [ ] 从左上角工作台名切换或新建工作台
 - [ ] 在设置中开启天气、记账、音乐等更多小组件
+- [x] 右键任意瓷贴：移除、整理布局
+- [x] 点击时钟旁的编辑按钮更换海报背景
 
 ## Library
 
