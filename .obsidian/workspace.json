@@ -32,7 +32,21 @@
             }
           },
           {
-            "id": "e8e84942cf2085b3",
+            "id": "d6d9b90e907c0f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础理论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础理论"
+            }
+          },
+          {
+            "id": "f16db3a16154a1fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,7 +60,7 @@
             }
           },
           {
-            "id": "03562a07ab19dfe1",
+            "id": "84fcd4d6e6259347",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,6 +71,62 @@
               },
               "icon": "lucide-file",
               "title": "欢迎"
+            }
+          },
+          {
+            "id": "d9b5a4cf54664dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          },
+          {
+            "id": "8b5a6d8d623d7a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          },
+          {
+            "id": "ddfbdf701fae7fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础理论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础理论"
+            }
+          },
+          {
+            "id": "4e5e767a3b63aa44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "打印机与热升华色彩管理详细知识笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "打印机与热升华色彩管理详细知识笔记"
             }
           }
         ],
@@ -138,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "打印机与热升华色彩管理详细知识笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "打印机与热升华色彩管理详细知识笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -200,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "打印机与热升华色彩管理详细知识笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,7 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 423.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,10 +310,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb41e988fb6e53b1",
+  "active": "85cef68981d6d050",
   "lastOpenFiles": [
-    "dashboard.md",
+    "打印机色彩管理总体知识框架.md",
+    "打印机色彩管理深度专题笔记：RIP·ICC·色域映射·线性化·灰平衡·G7.md",
+    "基础理论.md",
+    "热转印与热升华打印机色彩管理知识体系 (1).md",
+    "打印机与热升华色彩管理详细知识笔记.md",
+    "色彩管理工具.md",
     "欢迎.md",
+    "dashboard.md",
     "2026-11-16-2231.md",
     "dashboard-2.md"
   ]

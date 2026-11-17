@@ -20,6 +20,9 @@ columns:
   - name: Library
     color: "#8b5cf6"
     type: projects
+  - name: 日志
+    color: "#6366f1"
+    type: projects
 ---
 
 ## 便利贴
@@ -27,32 +30,18 @@ columns:
 ### 2026-11-16 备忘
 id: demo-memo-1
 type: generic
-欢迎使用 Apex Dashboard！点击此处编辑你的第一条备忘。
-**小贴士**
-- 在 **设置 → Apex Dashboard** 中可修改 dashboard 文件路径
-- 双击分区标题即可**重命名分区**
 
-### 快速上手
-id: demo-todo-1
-type: task
-- [ ] 尝试添加一张新卡片
-- [ ] 添加一个新分区
-- [ ] 编辑 Banner 区的名言
-- [ ] 添加一个快捷链接
-
-### 界面操作指南
+### 任务清单
 id: demo-todo-2
 type: task
-- [ ] 从左上角工作台名切换或新建工作台
-- [ ] 在设置 → 常用操作里配置快捷命令与技能按钮
-- [ ] 在设置中开启天气、记账、音乐、日历等小组件
-- [ ] 在设置中切换布局（侧栏 / 堆叠 / 沉浸式）
 
 ## Projects
 
-### 我的第一个项目
+### 色彩管理
 id: demo-project-1
 type: project
+- [[色彩管理工具.md]]
+- [[基础理论.md]]
 
 ## Library
 
@@ -67,3 +56,5 @@ type: project
 ### Done
 id: demo-lib-done
 type: project
+
+## 日志

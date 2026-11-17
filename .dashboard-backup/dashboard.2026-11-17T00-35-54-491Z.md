@@ -8,7 +8,6 @@ banner:
   quoteFont: "Didot,\"Bodoni MT\",Georgia,serif"
   images:
     - "https://images.unsplash.com/photo-1788651946293-893d6b217f34?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0"
-immersiveEditable: false
 immersiveBackground: "https://images.unsplash.com/photo-1788651946293-893d6b217f34?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0"
 immersive:
   - id: "widget:quickActions"
@@ -76,7 +75,7 @@ immersive:
     cap: 21
     fixed: true
     x: 6
-    y: 8
+    y: 0
   - id: "card:demo-todo-2"
     w: 3
     cap: 32

@@ -75,7 +75,7 @@ immersive:
     cap: 21
     fixed: true
     x: 6
-    y: 8
+    y: 0
   - id: "card:demo-todo-2"
     w: 3
     cap: 32
@@ -121,10 +121,10 @@ type: generic
 id: demo-todo-1
 type: task
 width: 246
-- [ ] 拖动这张卡片换个位置
 - [ ] 拖住卡片右下角把它变大
 - [ ] 打开左上角 + 添加一个小组件
 - [x] 在顶部输入框记一条闪念
+- [x] 拖动这张卡片换个位置
 
 ### 界面操作指南
 id: demo-todo-2
