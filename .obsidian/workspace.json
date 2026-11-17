@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36300c403ca8c3bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
             "id": "85cef68981d6d050",
             "type": "leaf",
             "state": {
@@ -32,45 +18,17 @@
             }
           },
           {
-            "id": "d6d9b90e907c0f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础理论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基础理论"
-            }
-          },
-          {
-            "id": "f16db3a16154a1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
             "id": "84fcd4d6e6259347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "2026-11-16-2231.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "2026-11-16-2231"
             }
           },
           {
@@ -79,40 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
-            "id": "8b5a6d8d623d7a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
-            "id": "ddfbdf701fae7fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础理论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基础理论"
+              "title": "dashboard"
             }
           },
           {
@@ -121,16 +51,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "打印机与热升华色彩管理详细知识笔记.md",
+                "file": "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "打印机与热升华色彩管理详细知识笔记"
+              "title": "热升华 ISO‑5 密度状态怎么选"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "打印机与热升华色彩管理详细知识笔记.md",
+                "file": "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "打印机与热升华色彩管理详细知识笔记.md",
+                "file": "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -270,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "打印机与热升华色彩管理详细知识笔记.md",
+                "file": "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -310,17 +240,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85cef68981d6d050",
+  "active": "4e5e767a3b63aa44",
   "lastOpenFiles": [
-    "打印机色彩管理总体知识框架.md",
-    "打印机色彩管理深度专题笔记：RIP·ICC·色域映射·线性化·灰平衡·G7.md",
-    "基础理论.md",
-    "热转印与热升华打印机色彩管理知识体系 (1).md",
-    "打印机与热升华色彩管理详细知识笔记.md",
+    "工作/色彩管理/实践/灰平衡/灰平衡怎么做最好.md",
+    "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
+    "工作/色彩管理/实践/灰平衡",
+    "工作/色彩管理/实践/线性化/线性化目标与验收.md",
+    "工作/色彩管理/实践/线性化",
+    "dashboard.md",
+    "dashboard-2.md",
+    "未命名.base",
     "色彩管理工具.md",
     "欢迎.md",
-    "dashboard.md",
     "2026-11-16-2231.md",
-    "dashboard-2.md"
+    "工作/色彩管理/实践/工具.md",
+    "工作/未命名.md",
+    "工作/色彩管理/未命名.md",
+    "工作/色彩管理/理论/热转印与热升华打印机色彩管理知识体系 (1).md",
+    "工作/色彩管理/理论/打印机色彩管理深度专题笔记：RIP·ICC·色域映射·线性化·灰平衡·G7.md",
+    "基础理论.md",
+    "工作/色彩管理/实践",
+    "工作/色彩管理/理论",
+    "工作/色彩管理",
+    "工作/色彩管理/理论/打印机与热升华色彩管理详细知识笔记.md",
+    "工作",
+    "工作/色彩管理/理论/打印机色彩管理总体知识框架.md"
   ]
 }
