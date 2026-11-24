@@ -51,16 +51,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
+                "file": "工作/色彩管理/理论/色域.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "热升华 ISO‑5 密度状态怎么选"
+              "title": "色域"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
+                "file": "工作/色彩管理/理论/色域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
+                "file": "工作/色彩管理/理论/色域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -200,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
+                "file": "工作/色彩管理/理论/色域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,12 +239,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e5e767a3b63aa44",
+  "active": "85cef68981d6d050",
   "lastOpenFiles": [
+    "工作/色彩管理/理论/色域.md",
+    "Pasted image 20261121115921.png",
+    "工作/色彩管理/实践/线性化/热升华打印机线性化的目标曲线是什么.md",
+    "工作/色彩管理/实践/线性化/线性化目标与验收.md",
     "工作/色彩管理/实践/灰平衡/灰平衡怎么做最好.md",
     "工作/色彩管理/实践/热升华 ISO‑5 密度状态怎么选.md",
     "工作/色彩管理/实践/灰平衡",
-    "工作/色彩管理/实践/线性化/线性化目标与验收.md",
     "工作/色彩管理/实践/线性化",
     "dashboard.md",
     "dashboard-2.md",

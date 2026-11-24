@@ -34,6 +34,10 @@ type: generic
 ### 任务清单
 id: demo-todo-2
 type: task
+- [ ] G7微调查看效果
+- [ ] 固定M寻找Y、C的中性灰，打色靶图
+- [ ] 已灰平衡的机器打YMC 纯色色靶，查看od、lab曲线，用此曲线线性化查看区别
+- [ ] 从已经灰平衡的曲线去反推ios  ADF校正曲线实现线性化。
 
 ## Projects
 

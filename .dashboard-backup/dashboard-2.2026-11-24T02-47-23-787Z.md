@@ -31,11 +31,10 @@ columns:
 id: demo-memo-1
 type: generic
 
-### 界面操作指南
+### 任务清单
 id: demo-todo-2
 type: task
-- [x] 在设置中切换布局（侧栏 / 堆叠 / 沉浸式）
-- [x] 从左上角工作台名切换或新建工作台
+- [ ] 从已经灰平衡的曲线去反推ios  ADF校正曲线实现线性化。
 
 ## Projects
 

@@ -31,10 +31,11 @@ columns:
 id: demo-memo-1
 type: generic
 
-### 界面操作指南
+### 任务清单
 id: demo-todo-2
 type: task
-- [x] 从左上角工作台名切换或新建工作台
+- [ ] 已灰平衡的机器打YMC 纯色色靶，查看od、lab曲线，用此曲线线性化查看区别
+- [ ] 从已经灰平衡的曲线去反推ios  ADF校正曲线实现线性化。
 
 ## Projects
 
